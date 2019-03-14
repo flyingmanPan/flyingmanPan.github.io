@@ -8,6 +8,6 @@ layout: default
 * 目录
 {:toc}
 ## Homework link
-[homework1](/homework1)
+[homework1](/homework1/hw1.md)
 [homework2](/homework2)
 [homework3](/homework3)
